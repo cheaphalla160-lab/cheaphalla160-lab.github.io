@@ -1,0 +1,6 @@
+{
+  "name": "Yummy Sandwich Lab",
+  "description": "Interactive elementary English vocabulary game for learning sandwich, cheese, vegetable, salad, tomato, and egg through supermarket shopping, sandwich making, read-aloud practice, cheerful music, and a class leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
